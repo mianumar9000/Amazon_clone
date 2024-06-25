@@ -1,0 +1,1 @@
+# This is the first version of Amazon clone project
